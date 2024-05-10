@@ -1,0 +1,17 @@
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\bin\Debug\net8.0-windows\GroceryStore_IceTask.exe
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\bin\Debug\net8.0-windows\GroceryStore_IceTask.deps.json
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\bin\Debug\net8.0-windows\GroceryStore_IceTask.runtimeconfig.json
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\bin\Debug\net8.0-windows\GroceryStore_IceTask.dll
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\bin\Debug\net8.0-windows\GroceryStore_IceTask.pdb
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.Form1.resources
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.csproj.GenerateResource.cache
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.AssemblyInfoInputs.cache
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.AssemblyInfo.cs
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.csproj.CoreCompileInputs.cache
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.sourcelink.json
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.dll
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\refint\GroceryStore_IceTask.dll
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.pdb
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\GroceryStore_IceTask.genruntimeconfig.cache
+C:\Users\mason\OneDrive\Desktop\PROG 2A\C# PROJECTS\GroceryStore_IceTask\obj\Debug\net8.0-windows\ref\GroceryStore_IceTask.dll
